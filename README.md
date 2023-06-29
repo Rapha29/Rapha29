@@ -10,10 +10,6 @@ Olá 👋, sou Raphael Olimpio 💻
 📃 Currículo online  
 📊 Certificados  
 💌 Trajetória  
-  
-📫 Entre em contato comigo:  
-Rapha29-1b86a0189/ Rapha29/ 14250789/Rapha29?tab=profile Rapha29
-
 
 
 ⚡ Tools (learning):
