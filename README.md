@@ -1,18 +1,18 @@
-### Hi there 👋
+Hi everyone 👋
 
-Olá 👋, sou Raphael Olimpio 👩💻
+Olá 👋, sou Raphael Olimpio 💻
 
-✨ Seja Bem-vindo (a)!✨
-🦸🏻‍♀️ Um pouco sobre mim:
-🎓 Análise e Desenvolvimento de Sistemas
-🚀 Programador e Analista de Sistemas
-❤ Amo cachorros 🐶, natureza🌻, séries🎬, documentários📖, jogos🎮 e explorar locais novos🌍
-📃 Currículo online
-📊 Certificados
-💌 Trajetória
-
-📫 Entre em contato comigo:
-Rapha29-1b86a0189/ juliana_maria_sousa_mesquita/ 14250789/Rapha29?tab=profile Rapha29
+✨ Seja Bem-vindo (a)!  
+🦸🏻‍♀️ Um pouco sobre mim:  
+🎓 Análise e Desenvolvimento de Sistemas  
+🚀 Programador e Analista de Sistemas  
+❤ Amo cachorros 🐶, natureza🌻, séries🎬, documentários📖, jogos🎮 e explorar locais novos🌍  
+📃 Currículo online  
+📊 Certificados  
+💌 Trajetória  
+  
+📫 Entre em contato comigo:  
+Rapha29-1b86a0189/ Rapha29/ 14250789/Rapha29?tab=profile Rapha29
 
 
 
