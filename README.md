@@ -23,8 +23,7 @@ git
 
 
 
-📊 GitHub estatísticas:
-Rapha29
+📊 GitHub 
 
 
 
