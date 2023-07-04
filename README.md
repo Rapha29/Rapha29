@@ -5,7 +5,7 @@
 - 🎓 Analise e desenvolvimento de sistemas
 - 🚀 Programador e desenvolvedor
 - ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮
-- 📊<a target="_blank" href="https://drive.google.com/drive/folders/0B3vqwFCd3KdNfl85Q2EtZlhkd2phVjhVeFZtV0MyNVdfM0JncjhjeGNFcmhrNHV2UWE1MkU?resourcekey=0-ueUShB7kCmPW60rlXnuvrQ&usp=drive_link](https://github.com/Rapha29/CERFITICADOS)"> Certificados </a>
+- 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a>
 
 
 
