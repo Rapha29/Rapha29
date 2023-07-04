@@ -6,6 +6,7 @@
 - 🚀 Programador e desenvolvedor
 - ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮
 - 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a>
+- 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a>
 
 
 
