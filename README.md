@@ -1,5 +1,6 @@
 <h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Analise e desenvolvimento de sistemas
 - 🚀 Programador e desenvolvedor
