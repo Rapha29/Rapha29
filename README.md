@@ -1,5 +1,4 @@
 <h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
-![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 
 
 🦸🏻‍♀️ Um pouco sobre mim:
