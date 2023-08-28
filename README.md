@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
 <h3 align = "center">✨Seja Bem-vindo (a)!</h3>
 
@@ -49,6 +47,7 @@
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact" alt = "Rapha Olimpio" /> </p>
 <br><br>
 
+![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **JulianaMariaSousaMesquita/JulianaMariaSousaMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
