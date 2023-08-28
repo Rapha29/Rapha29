@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
 <h3 align = "center">✨Seja Bem-vindo (a)!</h3>
 
