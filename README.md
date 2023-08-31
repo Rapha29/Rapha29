@@ -6,9 +6,7 @@
 - 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a> <br>
 
 ## Habilidades principais:
-
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rapha29-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha29-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
   <img align="center" alt="Rapha29-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
