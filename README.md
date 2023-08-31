@@ -31,5 +31,3 @@
   <a href="mailto:rapha2929@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
