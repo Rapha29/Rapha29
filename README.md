@@ -6,9 +6,7 @@
 - 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a> <br>
 
 ## Habilidades principais:
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1">
-</p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha29-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +19,9 @@
   <img align="center" alt="Rapha29-JQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Rapha29-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1">
+</p>
 <div>
   <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Rapha29&show_icons=true&theme=midnight-purple" />
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Rapha29" />
