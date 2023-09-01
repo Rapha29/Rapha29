@@ -13,7 +13,7 @@
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="JQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
-<img align="center" alt="github" height="35" width="35" src="/assets/Git-Hub.png">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
 <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
