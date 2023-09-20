@@ -1,4 +1,8 @@
 <h1 align = "center">About Raphael Olimpio💻 </h1>
+
+- 📖 Não respondo mensagens privadas sem relação aos estudos
+- 📖 Todos os dias de prova estarei no mesmo dia, mesmo horario no mesmo lugar
+  
 - 🎓 Analise e desenvolvimento de sistemas <br>
 - 🚀 Programador e desenvolvedor  <br>
 - ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
