@@ -5,6 +5,7 @@
 - ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
 - 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a> <br>
 - 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a> <br>
+- 💻<a target="_blank" href="https://www.vakinha.com.br/4125437"> Apoie o projeto - Estudando ADS </a> <br>
 
 ## Habilidades principais:
 <div style="display: inline_block">
