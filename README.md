@@ -1,7 +1,7 @@
 <h1 align = "center">About Raphael Olimpio💻 </h1>
   
 - 🎓 Analise e desenvolvimento de sistemas <br>
-- 🚀 Programador e desenvolvedor  <br>
+- 🚀 Programador / desenvolvedor  <br>
 - ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
 - 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a> <br>
 - 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a> <br>
